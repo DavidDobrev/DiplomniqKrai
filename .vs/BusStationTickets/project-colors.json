@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e59c7555-1b91-4d27-97b3-fed23d47bbf7": {
+      "ProjectGuid": "e59c7555-1b91-4d27-97b3-fed23d47bbf7",
+      "DisplayName": "BusStationTickets",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
